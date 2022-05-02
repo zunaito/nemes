@@ -1,7 +1,6 @@
 -- nemes
 -- @glia rpls flip w/ fine pitch control and tape fx
 -- based on @andrew (@andr-ew on gh) https://github.com/andr-ew/rpls
--- and @infinitedigits (aka @schollz) https://github.com/schollz/tapedeck
 
 cs = require 'controlspec'
 
